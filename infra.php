@@ -104,6 +104,7 @@ include('inc/header.php');
                 <p align="justify">Well furnished, well-ventilated, well-constructed, proper lightning, curtains, well-built benches, and spacious classrooms are available for the smooth conduct of theory classes. The institute has total 17 ICT-enabled facilities.</p>
                   The Library at M.K. College of Education stands as a scholarly haven, housing a diverse collection of 6074 books and 15 journals, catering to a wide array of academic interests. With a seating capacity for 60 students, it provides a serene environment for research and study. The library also boasts a repertoire of 3 magazines and 4 newspapers, keeping students abreast of current affairs. Furthermore, our commitment to modern education is evident through our Digital Library, offering access to e-learning resources, enriching the academic experience for our students.
                 </p>
+  <a class="p-3 bg-warning" href="https://nlist.inflibnet.ac.in/collegeadmin/index.php">N-LIST</a>
               </div>
         </div>
         </div>
